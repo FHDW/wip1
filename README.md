@@ -5,11 +5,5 @@ Demoprojekt für WIP
 * Change in VS Code
 * MyBranch1
 * Master nochmal geändert
-<<<<<<< HEAD
-=======
-* Master geaendert
-* Mybranch1 nochmal geaendert
->>>>>>> mybranch1
-
 
 
